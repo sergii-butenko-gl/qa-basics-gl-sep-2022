@@ -1,2 +1,5 @@
 def some_func():
     pass
+
+def some_func2():
+    pass
