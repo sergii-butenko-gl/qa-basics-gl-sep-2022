@@ -1,2 +1,2 @@
-def test_hotfix_tests():
-  pass
+def test_hotfix_test():
+    pass
